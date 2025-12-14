@@ -1,0 +1,490 @@
+{
+  "products": [
+    {
+      "id": "pixel-8-pro-128gb",
+      "name": "Pixel 8 Pro",
+      "category": "phones",
+      "price": 999.00,
+      "rating": 4.6,
+      "images": [
+        "assets/images/pixel-8-pro-bay.jpg",
+        "assets/images/pixel-8-pro-back.jpg",
+        "assets/images/pixel-8-pro-side.jpg"
+      ],
+      "description": "The Google Pixel 8 Pro is the ultimate smartphone experience with advanced AI capabilities, professional-grade camera system, and stunning display. Features include the Tensor G3 chip, 6.7-inch Super Actua display, and industry-leading 7-year software support.",
+      "specs": {
+        "screen": "6.7 inches, 120Hz LTPO OLED",
+        "storage": "128GB UFS 3.1",
+        "color": "Bay Blue, Obsidian, Porcelain",
+        "weight": "213g",
+        "processor": "Google Tensor G3",
+        "ram": "12GB LPDDR5X",
+        "camera": "50MP Main + 48MP Ultra-wide + 48MP Telephoto",
+        "battery": "5050mAh with 30W fast charging"
+      },
+      "stock": 45,
+      "popularity": 92
+    },
+    {
+      "id": "pixel-8-256gb",
+      "name": "Pixel 8",
+      "category": "phones",
+      "price": 699.00,
+      "rating": 4.4,
+      "images": [
+        "assets/images/pixel-8-rose.jpg",
+        "assets/images/pixel-8-back.jpg"
+      ],
+      "description": "Pixel 8 combines powerful AI features with a compact design. Enjoy Magic Eraser, Call Screen, and Live Translate with the Tensor G3 chip. The 6.2-inch Actua display is bright and smooth with 120Hz refresh rate.",
+      "specs": {
+        "screen": "6.2 inches, 120Hz OLED",
+        "storage": "256GB UFS 3.1",
+        "color": "Rose, Hazel, Obsidian",
+        "weight": "187g",
+        "processor": "Google Tensor G3",
+        "ram": "8GB LPDDR5X",
+        "camera": "50MP Main + 12MP Ultra-wide",
+        "battery": "4575mAh with 30W fast charging"
+      },
+      "stock": 32,
+      "popularity": 78
+    },
+    {
+      "id": "pixel-7a-128gb",
+      "name": "Pixel 7a",
+      "category": "phones",
+      "price": 499.00,
+      "rating": 4.3,
+      "images": [
+        "assets/images/pixel-7a-coral.jpg",
+        "assets/images/pixel-7a-charcoal.jpg"
+      ],
+      "description": "The Pixel 7a delivers premium features at an affordable price. With the Google Tensor G2 chip, 64MP camera system, and wireless charging, it's the perfect balance of performance and value.",
+      "specs": {
+        "screen": "6.1 inches, 90Hz OLED",
+        "storage": "128GB UFS 3.1",
+        "color": "Coral, Sea, Charcoal, Snow",
+        "weight": "193.5g",
+        "processor": "Google Tensor G2",
+        "ram": "8GB LPDDR5",
+        "camera": "64MP Main + 13MP Ultra-wide",
+        "battery": "4385mAh with 18W fast charging"
+      },
+      "stock": 67,
+      "popularity": 85
+    },
+    {
+      "id": "pixel-fold-256gb",
+      "name": "Pixel Fold",
+      "category": "phones",
+      "price": 1799.00,
+      "rating": 4.2,
+      "images": [
+        "assets/images/pixel-fold-open.jpg",
+        "assets/images/pixel-fold-closed.jpg",
+        "assets/images/pixel-fold-stand.jpg"
+      ],
+      "description": "Google's first foldable smartphone combines a pocket-sized phone with a powerful tablet. The Pixel Fold features the thickest hinge in its class, premium materials, and all the Pixel AI features you love.",
+      "specs": {
+        "screen": "7.6 inches inner (120Hz), 5.8 inches outer (120Hz)",
+        "storage": "256GB UFS 3.1",
+        "color": "Obsidian, Porcelain",
+        "weight": "283g",
+        "processor": "Google Tensor G2",
+        "ram": "12GB LPDDR5",
+        "camera": "48MP Main + 10.8MP Ultra-wide + 10.8MP Telephoto (5x optical)",
+        "battery": "4821mAh with 30W fast charging"
+      },
+      "stock": 12,
+      "popularity": 88
+    },
+    {
+      "id": "pixel-tablet-128gb",
+      "name": "Pixel Tablet",
+      "category": "tablets",
+      "price": 499.00,
+      "rating": 4.1,
+      "images": [
+        "assets/images/pixel-tablet-hazel.jpg",
+        "assets/images/pixel-tablet-dock.jpg"
+      ],
+      "description": "The Pixel Tablet is perfect for entertainment and productivity. With the Tensor G2 chip, brilliant 11-inch display, and included Speaker Dock, it transforms from entertainment device to smart home hub.",
+      "specs": {
+        "screen": "11 inches, 60Hz LCD",
+        "storage": "128GB UFS 3.1",
+        "color": "Hazel, Porcelain",
+        "weight": "493g (tablet only)",
+        "processor": "Google Tensor G2",
+        "ram": "8GB LPDDR5",
+        "camera": "8MP Wide + Front-facing camera",
+        "battery": "7040mAh with 15W fast charging"
+      },
+      "stock": 28,
+      "popularity": 73
+    },
+    {
+      "id": "nest-hub-max",
+      "name": "Nest Hub Max",
+      "category": "smart-home",
+      "price": 229.00,
+      "rating": 4.3,
+      "images": [
+        "assets/images/nest-hub-max-chalk.jpg",
+        "assets/images/nest-hub-max-charcoal.jpg"
+      ],
+      "description": "The Nest Hub Max is the perfect smart display for your home. With a 10-inch HD screen, Nest Cam built-in, and Google Assistant, it's your control center for smart home devices and video calls.",
+      "specs": {
+        "screen": "10 inches, 1280x800 HD",
+        "storage": "Local storage",
+        "color": "Chalk, Charcoal",
+        "weight": "1251g",
+        "processor": "1.9GHz Quad-core",
+        "ram": "2GB",
+        "camera": "6.5MP with 127° wide-angle view",
+        "speakers": "75mm 2.0 full-range driver + 2x 20mm tweeters"
+      },
+      "stock": 41,
+      "popularity": 81
+    },
+    {
+      "id": "nest-hub-2nd-gen",
+      "name": "Nest Hub (2nd Gen)",
+      "category": "smart-home",
+      "price": 99.00,
+      "rating": 4.4,
+      "images": [
+        "assets/images/nest-hub-2nd-chalk.jpg",
+        "assets/images/nest-hub-2nd-charcoal.jpg"
+      ],
+      "description": "The Nest Hub (2nd Gen) features sleep sensing technology to help you understand your sleep quality. Control your smart home, enjoy entertainment, and get help from Google Assistant.",
+      "specs": {
+        "screen": "7 inches, 1024x600 touchscreen",
+        "storage": "Local storage",
+        "color": "Chalk, Charcoal, Sand, Fog",
+        "weight": "447g",
+        "processor": "Quad-core 1.8GHz ARM Cortex-A53",
+        "ram": "1GB",
+        "microphones": "Far-field microphones for voice commands",
+        "speakers": "1.7-inch full-range driver"
+      },
+      "stock": 89,
+      "popularity": 86
+    },
+    {
+      "id": "nest-audio",
+      "name": "Nest Audio",
+      "category": "smart-home",
+      "price": 99.00,
+      "rating": 4.2,
+      "images": [
+        "assets/images/nest-audio-chalk.jpg",
+        "assets/images/nest-audio-charcoal.jpg"
+      ],
+      "description": "Nest Audio is a premium smart speaker with rich bass and clear vocals. Google Assistant helps you manage your day, control your smart home, and enjoy music from your favorite services.",
+      "specs": {
+        "screen": "None",
+        "storage": "Local storage",
+        "color": "Chalk, Charcoal, Sage, Sand, Sky",
+        "weight": "1.21kg",
+        "processor": "1.8GHz Quad-core ARM Cortex-A53",
+        "ram": "1GB",
+        "microphones": "Far-field microphones for voice commands",
+        "speakers": "75mm woofer + 19mm tweeter"
+      },
+      "stock": 102,
+      "popularity": 79
+    },
+    {
+      "id": "nest-mini-2nd-gen",
+      "name": "Nest Mini (2nd Gen)",
+      "category": "smart-home",
+      "price": 49.00,
+      "rating": 4.1,
+      "images": [
+        "assets/images/nest-mini-chalk.jpg",
+        "assets/images/nest-mini-charcoal.jpg"
+      ],
+      "description": "Nest Mini is Google's smallest smart speaker, but it packs a big sound. Ask questions, play music, and control your smart home with your voice or touch.",
+      "specs": {
+        "screen": "None",
+        "storage": "Local storage",
+        "color": "Chalk, Charcoal, Coral, Sky",
+        "weight": "181g",
+        "processor": "1.4GHz Quad-core ARM Cortex-A53",
+        "ram": "512MB",
+        "microphones": "Far-field microphones for voice commands",
+        "speakers": "40mm driver"
+      },
+      "stock": 156,
+      "popularity": 74
+    },
+    {
+      "id": "nest-wifi-pro",
+      "name": "Nest Wifi Pro",
+      "category": "smart-home",
+      "price": 199.99,
+      "rating": 4.5,
+      "images": [
+        "assets/images/nest-wifi-pro-snow.jpg",
+        "assets/images/nest-wifi-pro-fog.jpg"
+      ],
+      "description": "Nest Wifi Pro provides reliable Wi-Fi 6E coverage throughout your home. With speeds up to 2x faster than Wi-Fi 6 and coverage for up to 2,200 sq. ft. per point.",
+      "specs": {
+        "screen": "None",
+        "storage": "Local storage",
+        "color": "Snow, Fog, Linen",
+        "weight": "340g",
+        "processor": "Quad-core 1.5GHz",
+        "ram": "1GB",
+        "wireless": "Wi-Fi 6E (802.11ax), 2.4GHz/5GHz/6GHz",
+        "ports": "2x Gigabit Ethernet ports per router"
+      },
+      "stock": 58,
+      "popularity": 82
+    },
+    {
+      "id": "pixel-buds-pro",
+      "name": "Pixel Buds Pro",
+      "category": "accessories",
+      "price": 199.00,
+      "rating": 4.3,
+      "images": [
+        "assets/images/pixel-buds-pro-charcoal.jpg",
+        "assets/images/pixel-buds-pro-fog.jpg",
+        "assets/images/pixel-buds-pro-coral.jpg"
+      ],
+      "description": "Pixel Buds Pro offer premium sound with Active Noise Cancellation, Silent Seal™ ear tips, and up to 11 hours of listening time. Perfect for music, calls, and Google Assistant on the go.",
+      "specs": {
+        "screen": "None",
+        "storage": "None",
+        "color": "Charcoal, Fog, Coral, Lemongrass",
+        "weight": "6.1g per earbud",
+        "processor": "Custom audio processor",
+        "ram": "N/A",
+        "battery": "11 hours earbuds + 11 hours charging case",
+        "features": "Active Noise Cancellation, Transparency mode, Spatial Audio"
+      },
+      "stock": 94,
+      "popularity": 87
+    },
+    {
+      "id": "pixel-buds-a-series",
+      "name": "Pixel Buds A-Series",
+      "category": "accessories",
+      "price": 99.00,
+      "rating": 4.0,
+      "images": [
+        "assets/images/pixel-buds-a-sage.jpg",
+        "assets/images/pixel-buds-a-dark-olive.jpg"
+      ],
+      "description": "Pixel Buds A-Series deliver great sound at an affordable price. With comfortable ear tips, up to 5 hours of listening time, and Google Assistant built-in, they're perfect for everyday use.",
+      "specs": {
+        "screen": "None",
+        "storage": "None",
+        "color": "Sage, Dark Olive, Clearly White",
+        "weight": "5.1g per earbud",
+        "processor": "Custom audio processor",
+        "ram": "N/A",
+        "battery": "5 hours earbuds + 19 hours charging case",
+        "features": "Adaptive Sound, Google Assistant"
+      },
+      "stock": 187,
+      "popularity": 76
+    },
+    {
+      "id": "pixel-stand-2nd-gen",
+      "name": "Pixel Stand (2nd Gen)",
+      "category": "accessories",
+      "price": 79.00,
+      "rating": 4.4,
+      "images": [
+        "assets/images/pixel-stand-2nd-gen.jpg",
+        "assets/images/pixel-stand-2nd-gen-side.jpg"
+      ],
+      "description": "The Pixel Stand (2nd Gen) wirelessly charges your Pixel phone and transforms it into a smart display. Features fanless cooling, faster charging, and improved stability.",
+      "specs": {
+        "screen": "None",
+        "storage": "None",
+        "color": "White",
+        "weight": "107g",
+        "processor": "N/A",
+        "ram": "N/A",
+        "charging": "23W wireless charging, Qi-certified",
+        "features": "Fanless cooling, temperature regulation"
+      },
+      "stock": 65,
+      "popularity": 71
+    },
+    {
+      "id": "pixel-watch-2-41mm",
+      "name": "Pixel Watch 2",
+      "category": "accessories",
+      "price": 349.00,
+      "rating": 4.5,
+      "images": [
+        "assets/images/pixel-watch-2-silver.jpg",
+        "assets/images/pixel-watch-2-active-band.jpg"
+      ],
+      "description": "Pixel Watch 2 is the ultimate smartwatch with Fitbit integration. Features advanced health sensors, 24-hour battery life, GPS, and emergency SOS.",
+      "specs": {
+        "screen": "1.2 inches AMOLED, Always-on Display",
+        "storage": "32GB",
+        "color": "Active Case (Silver/Black), Polished Silver (Gold/Stainless)",
+        "weight": "31g",
+        "processor": "Qualcomm Snapdragon Wear 5100",
+        "ram": "2GB",
+        "sensors": "Heart rate, SpO2, Skin temperature, ECG",
+        "battery": "24 hours with Extreme Battery Saver mode"
+      },
+      "stock": 38,
+      "popularity": 90
+    },
+    {
+      "id": "chromecast-with-google-tv-4k",
+      "name": "Chromecast with Google TV (4K)",
+      "category": "smart-home",
+      "price": 49.99,
+      "rating": 4.2,
+      "images": [
+        "assets/images/chromecast-4k-snow.jpg",
+        "assets/images/chromecast-4k-remote.jpg"
+      ],
+      "description": "Stream your favorite entertainment in stunning 4K HDR. Chromecast with Google TV brings together movies, shows, and more from all your apps in one place.",
+      "specs": {
+        "screen": "4K HDR output",
+        "storage": "8GB",
+        "color": "Snow, Sky",
+        "weight": "55g",
+        "processor": "Amlogic S905X3",
+        "ram": "2GB",
+        "connectivity": "Wi-Fi 5 (802.11ac), Bluetooth 5.0",
+        "features": "Google TV interface, Voice remote with Google Assistant"
+      },
+      "stock": 203,
+      "popularity": 83
+    },
+    {
+      "id": "pixel-7-pro-case",
+      "name": "Google Pixel 7 Pro Case",
+      "category": "accessories",
+      "price": 29.99,
+      "rating": 4.0,
+      "images": [
+        "assets/images/pixel-7-pro-case-black.jpg",
+        "assets/images/pixel-7-pro-case-clear.jpg"
+      ],
+      "description": "Protect your Pixel 7 Pro with the official Google case. Made with premium materials, precise cutouts, and wireless charging compatibility.",
+      "specs": {
+        "screen": "None",
+        "storage": "None",
+        "color": "Black, Clear, Hazel",
+        "weight": "25g",
+        "processor": "N/A",
+        "ram": "N/A",
+        "material": "Recycled polycarbonate",
+        "features": "Drop protection, Wireless charging compatible"
+      },
+      "stock": 145,
+      "popularity": 68
+    },
+    {
+      "id": "nest-cam-battery",
+      "name": "Nest Cam (Battery)",
+      "category": "smart-home",
+      "price": 179.99,
+      "rating": 4.3,
+      "images": [
+        "assets/images/nest-cam-battery-snow.jpg",
+        "assets/images/nest-cam-battery-mount.jpg"
+      ],
+      "description": "Nest Cam (Battery) is a versatile security camera that works indoors or outdoors. Features intelligent alerts, 1080p HD video, and up to 3 hours of event video history.",
+      "specs": {
+        "screen": "None",
+        "storage": "Local storage + 3 hours free cloud storage",
+        "color": "Snow, Ash",
+        "weight": "141g",
+        "processor": "1.8GHz Quad-core",
+        "ram": "1GB",
+        "camera": "1080p HD with 130° diagonal field of view",
+        "battery": "6 months battery life (typical usage)"
+      },
+      "stock": 77,
+      "popularity": 84
+    },
+    {
+      "id": "nest-doorbell-battery",
+      "name": "Nest Doorbell (Battery)",
+      "category": "smart-home",
+      "price": 179.99,
+      "rating": 4.1,
+      "images": [
+        "assets/images/nest-doorbell-snow.jpg",
+        "assets/images/nest-doorbell-ash.jpg"
+      ],
+      "description": "Nest Doorbell (Battery) shows you who's at your door from anywhere. Get person, package, and vehicle alerts, and talk to visitors through the app.",
+      "specs": {
+        "screen": "None",
+        "storage": "Local storage + 3 hours free cloud storage",
+        "color": "Snow, Ash, Linen",
+        "weight": "311g",
+        "processor": "1.8GHz Quad-core",
+        "ram": "1GB",
+        "camera": "960x960 with 145° diagonal field of view",
+        "battery": "6 months battery life (typical usage)"
+      },
+      "stock": 91,
+      "popularity": 80
+    },
+    {
+      "id": "nest-thermostat",
+      "name": "Nest Thermostat",
+      "category": "smart-home",
+      "price": 129.99,
+      "rating": 4.4,
+      "images": [
+        "assets/images/nest-thermostat-sand.jpg",
+        "assets/images/nest-thermostat-fog.jpg"
+      ],
+      "description": "Nest Thermostat helps you save energy with programmable schedules and smart features. Works with most HVAC systems and integrates with Google Assistant.",
+      "specs": {
+        "screen": "2.4 inches, 320x240 resolution",
+        "storage": "Local storage",
+        "color": "Sand, Fog, Snow, Charcoal",
+        "weight": "206g",
+        "processor": "N/A",
+        "ram": "N/A",
+        "display": "Farsight shows temperature or time",
+        "compatibility": "Most 24V systems, not compatible with high-voltage systems"
+      },
+      "stock": 62,
+      "popularity": 85
+    }
+  ],
+  "categories": [
+    {
+      "id": "phones",
+      "name": "Smartphones",
+      "description": "Latest mobile devices with advanced AI and camera technology"
+    },
+    {
+      "id": "tablets",
+      "name": "Tablets",
+      "description": "Versatile tablets for entertainment and productivity"
+    },
+    {
+      "id": "laptops",
+      "name": "Laptops",
+      "description": "Powerful laptops for work and play"
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "description": "Cases, chargers, audio devices, and smartwatches"
+    },
+    {
+      "id": "smart-home",
+      "name": "Smart Home",
+      "description": "Connected devices for a smarter home experience"
+    }
+  ]
+}
