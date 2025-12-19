@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Shadow</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="box">
+                <h1>Hello <span style="color: red">World!</span></h1>
+                <p>This is a box with a shadow.</p>
+            </div>
+            <div class="box">
+                <h1>Hello <span style="color: red">World!</span></h1>
+                <p>This is a box with a shadow.</p>
+            </div>
+            <div class="box">
+                <h1>Hello <span style="color: red">World!</span></h1>
+                <p>This is a box with a shadow.</p>
+            </div>
+            <div class="box">
+                <h1>Hello <span style="color: red">World!</span></h1>
+                <p>This is a box with a shadow.</p>
+            </div>
+            <div class="box">
+                <h1>Hello <span style="color: red">World!</span></h1>
+                <p>This is a box with a shadow.</p>
+            </div>
+            <div class="box">
+                <h1>Hello <span style="color: red">World!</span></h1>
+                <p>This is a box with a shadow.</p>
+            </div>
+        </div>
+    </body>
+    <style>
+        body {
+            background-color: red;
+        }
+        .container {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .box {
+            background: url("https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2ppZGhqaHhqaW8wenlkMGYxbG5uM3pqajlkY3FzMXFrc2F3ejczZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/C9VLSOoxiC4FYkbUxW/giphy.gif");
+            background-size: cover;
+            margin: 30px auto;
+            width: 400px;
+            height: 200px;
+            background-color: white;
+            box-shadow: 5px 5px black;
+            border: 1px solid black;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            border: 10px solid white;
+        }
+        .box h1 {
+            color: white;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .box p {
+            color: white;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+    </style>
+</html>
